@@ -1,4 +1,0 @@
-Nikhil
-======
-
-generic directory
